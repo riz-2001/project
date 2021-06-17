@@ -33,7 +33,7 @@ html{
 
 #navbar ul{
     display: flex;
-    font-family: 'Baloo Bhai', cursive;
+    font-family: 'Baloo Bhai';
 }
 
 #navbar ul li{ 
